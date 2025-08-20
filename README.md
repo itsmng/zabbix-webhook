@@ -40,8 +40,8 @@ The configurable parameters are intended to be changed according to the webhook 
 |----|-----|-----------|
 |zabbix_url|\{$ZABBIX\.URL\}|Current Zabbix URL.|
 |itsmng_app_token||ITSM-ng application token (optional; specify if the token is set in the API client settings).|
-|itsmng_user_token|\<PLACE GLPI USER TOKEN\>|ITSM-ng user token.|
-|itsmng_url|\<PLACE GLPI URL\>|URL of ITSM-ng installation.|
+|itsmng_user_token|\<PLACE ITSMNG USER TOKEN\>|ITSM-ng user token.|
+|itsmng_url|\<PLACE ITSMNG URL\>|URL of ITSM-ng installation.|
 
 ### Internal parameters
 
