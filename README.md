@@ -146,4 +146,5 @@ Internal parameters are reserved for predefined macros that are not meant to be 
 For more information, please see [Zabbix](https://www.zabbix.com/documentation/7.4/manual/config/notifications) and [ITSM-ng](https://wiki.itsm-ng.org) documentation.
 
 ## Source
-This webhook is base with [this webhook](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/media/glpi?at=release%2F7.4) 
+
+This webhook is base on [this webhook](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/media/glpi?at=release%2F7.4) 
